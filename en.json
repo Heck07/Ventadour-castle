@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "discover": "DISCOVER",
+    "visit": "VISIT",
+    "events": "EVENTS",
+    "news": "NEWS",
+    "participate": "GET INVOLVED",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "hero": {
+      "subtitle": "Castle of",
+      "title": "Ventadour",
+      "tagline": "Rediscover medieval grandeur, stone by stone"
+    },
+    "preintro": "Ten centuries of stories await you",
+    "intro1": {
+      "title": "On the heights of Meyras",
+      "p1": "Perched at over 370 meters above sea level, the castle of Ventadour proudly overlooks the valleys of the Ardèche and the Fontaulière.",
+      "p2": "This strategic position, at the heart of a rugged landscape, once allowed it to control access routes between the Rhône valley and the Massif Central plateaus.",
+      "p3": "It was not just a residence: it was a true stronghold, built to monitor, defend, and establish seigneurial authority over the surrounding lands.",
+      "p4": "From its ramparts, one can take in a vast panorama that speaks volumes about its defensive role in the Middle Ages.",
+      "p5": "Long forgotten, this castle witnessed centuries of power, conflict, and land transmission, before falling into oblivion… and then being reborn through an extraordinary human adventure.",
+      "p6": "Today, the castle’s silhouette still marks the landscape of Meyras, a living link between past and present."
+    },
+    "intro2": {
+      "title": "After 57 years of volunteering",
+      "p1": "The modern history of the castle of Ventadour cannot be told without mentioning the hard work of the volunteers who, since 1969, have brought its ruins back to life, stone by stone.",
+      "p2": "At a time when the site was nothing but a pile of stones overgrown with vegetation, Pierre Pottier, a teacher and heritage enthusiast, had the bold vision of a rebuilt castle.",
+      "p3": "He then joined forces with the REMPART Union, a national network of youth volunteer workcamps, to launch a unique adventure. Each summer, dozens of young people from all over France – and sometimes from abroad – take part in this revival, guided by craftsmen, stonecutters, and historians.",
+      "p4": "Their work goes beyond masonry: they learn to read the remains, understand ancient gestures, and live collectively around a common project.",
+      "p5": "In nearly six decades, more than 7,000 volunteers have contributed to the restoration, making possible what once seemed unachievable.",
+      "button": "Learn more ↦"
+    },
+    "events": {
+      "section_title": "Happening now at Ventadour Castle",
+      "1": {
+        "title": "Les Ours au Cor Acier",
+        "desc": "A medieval group specialized in the arts of combat and historical reenactment, 'Les Ours au Cor Acier' bring war camps and armored fighting techniques back to life with passion and authenticity."
+        
+      },
+      "2": {
+        "title": "Volunteers with the Rempart Association",
+        "desc": "Committed to heritage preservation, volunteers from the Rempart association help restore the castle in a friendly atmosphere, combining traditional skills and intergenerational transmission."
+      }
+    },
+    "avis": {
+      "title": "Visitors share their reviews"
+    }
+  },
+    "decouvrir": {
+    "section1": {
+      "title": "A story that continues to be written<br>9 centuries later",
+      "p1": "Founded in the 12th century, the Ventadour Castle is part of the great feudal history of the Vivarais region.",
+      "p2": "Originally a simple watchtower, it gradually evolved into a true fortress, enriched by the successive families who inhabited it.",
+      "p3": "Its structure transformed from a Romanesque square keep into a complex ensemble of walls, towers, ceremonial halls, dovecotes, and advanced defensive systems.",
+      "p4": "Like many other castles, Ventadour suffered the ravages of time: religious wars, the French Revolution, and abandonment.",
+      "p5": "By the 17th century, it was already in ruins. In the 19th, it became a romantic ruin, a relic of the past. Yet nine centuries after its birth, the castle is experiencing a new golden age.",
+      "p6": "Thanks to restorations, guided tours, and educational workcamps, the site now welcomes the public. The story is still being written — not just in books, but in the very stones of the castle, raised once again by modern hands with deep respect for the past."
+    },
+    "section2": {
+      "title": "The dedication of Mr. and Mrs. Pottier",
+      "p1": "When Pierre and Françoise Pottier discovered the ruins of Ventadour in the late 1960s, they didn’t see an end — they saw a beginning.",
+      "p2": "At the time, the castle was nothing more than a pile of stones overrun by brambles, forgotten by all. But this passionate couple, with no wealth or institutional backing, firmly believed this heritage deserved to be saved.",
+      "p3": "Pierre, a teacher and man of action, launched the first restoration projects in partnership with the REMPART Union. Françoise, equally dedicated, handled the logistics: funding applications, group coordination, historical documentation, and daily management.",
+      "p4": "Together, they formed a complementary duo with unwavering determination. For nearly 50 years, they devoted their lives to this project. Their dream was not just to rebuild walls, but to restore meaning, history, and emotion to a forgotten place.",
+      "p5": "Even today, their efforts remain a model of courage, civic engagement, and cultural transmission."
+    },
+    "section3": {
+      "title": "From the Middle Ages to today",
+      "p1": "Ventadour Castle has spanned the ages, passing through the hands of several noble families. In the 12th century, it belonged to the powerful Solignac family, then passed by marriage to the Montlaur, and finally to the Lévis in the 13th century.",
+      "p2": "It was the Lévis who truly shaped the castle as we know it today, adding new enclosures, a noble hall, and architectural innovations ahead of their time.",
+      "p3": "In 1472, the marriage of Jean de Lévis to Blanche de Ventadour gave the castle its final name. The seigneury remained prosperous until the 17th century, when decline began, especially after the Marcieu family abandoned the site.",
+      "p4": "After the Revolution, the castle was sold as national property and used as a quarry. Nearly two centuries would pass before its rebirth, made possible by Pierre Pottier’s purchase in 1968.",
+      "p5": "Today, its long history lives on in every cut stone and every rebuilt wall — a dialogue between medieval memory and modern vitality."
+    },
+    "section4": {
+      "title": "Volunteers and scouts in action",
+      "p1": "Every summer, Ventadour Castle becomes a vast, living worksite where volunteers, scouts, artisans, and heritage enthusiasts come together.",
+      "p2": "Organized around specific missions — masonry, stone cutting, cleaning, reinforcement — these camps are also places of transmission.",
+      "p3": "Guided by professionals, young participants learn medieval building techniques while discovering community life, physical effort, and the value of a shared project. These camps welcome everyone: students, adults in career transition, families, and associations.",
+      "p4": "The results are spectacular: parts of the castle, such as the ramparts and wooden hoardings, have been entirely rebuilt thanks to this collective effort.",
+      "p5": "Beyond the work itself, these camps are moments of human connection — evening gatherings, intercultural encounters — that give the place a unique soul.",
+      "p6": "Perhaps it is in this collective momentum that the castle’s greatest victory lies: becoming a living place once more."
+    }
+  },
+  "timeline": {
+    "title": "Timeline of Ventadour Castle",
+    "events": [
+      {
+        "date": "Late 12th century",
+        "title": "Foundation",
+        "desc": "Initial construction of the castle by the Solignac family on the rocky spur of Meyras."
+      },
+      {
+        "date": "1195",
+        "title": "Fief of Montlaur",
+        "desc": "Pons V of Montlaur inherits Meyras through his marriage to Miracle of Solignac."
+      },
+      {
+        "date": "14th century",
+        "title": "Addition of a tower",
+        "desc": "A second tower is added to the keep, strengthening the castle's defenses."
+      },
+      {
+        "date": "1472",
+        "title": "Lévis-Ventadour",
+        "desc": "Louis de Lévis marries Blanche de Ventadour. The name 'Lévis-Ventadour' appears."
+      },
+      {
+        "date": "1578",
+        "title": "Duchy of Ventadour",
+        "desc": "The estate becomes a duchy-peerage under Henry III. Gilbert III becomes duke."
+      },
+      {
+        "date": "17th century",
+        "title": "Gradual abandonment",
+        "desc": "The castle stops being inhabited and begins to decay after the Wars of Religion."
+      },
+      {
+        "date": "French Revolution (around 1793)",
+        "title": "Stone quarry",
+        "desc": "Sold as national property, the castle is dismantled for building materials."
+      },
+      {
+        "date": "May 4, 1937",
+        "title": "Historic Monument",
+        "desc": "The castle is officially classified as a historic monument."
+      },
+      {
+        "date": "1968–1969",
+        "title": "Purchased by the Pottiers",
+        "desc": "Pierre and Françoise Pottier acquire the site and launch the first volunteer restoration projects."
+      },
+      {
+        "date": "Since 1969",
+        "title": "Ongoing restoration",
+        "desc": "Over 7,000 volunteers have contributed to preserving the castle."
+      }
+    ]
+  },
+   "visiter": {
+    "schedule": {
+      "title": "Dates & Hours",
+      "open": "The castle is open from 07/01/2025 to 09/01/2025",
+      "hours": "Visits from 10:00 AM – 12:00 PM and 2:00 PM – 6:00 PM",
+      "time": "Visit duration: 1h to 1h30"
+    },
+    "price": {
+      "title": "Flat Rate",
+      "standard": "€5 per person",
+      "kids": "Free for children < 6 years old",
+      "donate": "Donations are welcome"
+    },
+    "access": {
+      "title": "Site Access",
+      "text": "Parking is available at the foot of the castle along Route D135 at the address: Ventadour, 19140 Moustier-Ventadour. Good walking shoes are recommended. A 10-minute climb is required to reach the top of the castle."
+    }
+  },
+  "event": {
+    "title": "Events offered at Ventadour",
+    "coracier": {
+      "title": "Les Ours au Cor Acier",
+      "dates": "Every Sunday from 07/14/2025 to 08/28/2025",
+      "desc": "A medieval group specialized in the arts of combat and historical reenactment, 'Les Ours au Cor Acier' bring back the atmosphere of war camps and armored combat techniques, with passion and authenticity."
+    }
+  },
+   "eventFocus": {
+    "coracier": {
+      "title": "Les Ours au Cor Acier",
+      "dates": "Every Sunday from 07/14/2025 to 08/28/2025",
+      "p1": "'Les Ours au Cor Acier' are a troupe of medieval reenactment enthusiasts, specialized in armored combat.",
+      "p2": "Their immersive camp and spectacular demonstrations transport visitors back to the heart of the Middle Ages — weapon handling, camp life, and the values of camaraderie.",
+      "p3": "Masters of choreographed combat, they blend historical accuracy with stagecraft to deliver an experience that is both authentic and captivating.",
+      "p4": "'Les Ours au Cor Acier' bring the age of knights to life with flair, combining education, performance, and audience interaction for all ages."
+    }
+  },
+   "actu": {
+    "title": "The latest news from Ventadour",
+    "actus1": {
+      "title": "The Aubenas rugby team lends a hand for spring preparation",
+      "date": "05/01/2025",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quibusdam possimus officiis ut quasi, ducimus in autem perspiciatis eveniet itaque quos tempore aut est nesciunt maiores, non voluptas ipsa rerum."
+    },
+    "actus2": {
+      "title": "Castle opens for European Heritage Days!",
+      "date": "05/21/2025",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam error id dolor ut laborum, quam ipsa dolores saepe ducimus, consectetur non illum consequuntur tempore magni veniam molestiae, iusto aspernatur pariatur."
+    }
+  },
+    "participer": {
+    "title": "Join the workcamp as a volunteer with the Rempart association",
+    "bloc1": {
+      "title": "Planned restoration work",
+      "desc": "Volunteer for up to 3 weeks on site, mainly working on the turret tower. Tasks include repositioning the corbels and base of the tower, and possibly the arch of the clock tower that supports the turret. Stone cutting and lime masonry are part of the program!"
+    },
+    "bloc2": {
+      "title": "Group life and accommodation",
+      "p1": "During your stay, you’ll be supervised by a professional stonemason who will teach you traditional building techniques. Two members of the association will welcome you and help organize daily life and activities.",
+      "p2": "Work starts at 8 a.m. to avoid the summer heat, from Monday to Friday. Saturday is free time, and on Sunday, the castle is brought to life by a medieval fencing association: Les Ours au Cor Acier !",
+      "p3": "You’ll be housed directly in the castle, where a large dormitory awaits. A spacious kitchen and dining area offer a great place for shared meals and conversations.",
+      "p4": "Meals are prepared by rotating teams. Everyone can share recipes from their home region and enjoy others’ specialties. If you're already a 'chef', perfect — if not… get ready to cook!"
+    },
+    "cta": "I want to join →",
+    "link": "https://www.rempart.com/fr/agenda/ventadour-2025-session-3-11062"
+
+  },
+   "contact": {
+    "title": "Contact",
+    "phone": "The castle can be reached at <strong>+33 6 99 33 55 27</strong><br> from 9:30 AM to 7:00 PM (July–August) for more information.",
+    "mail": "For any other inquiries, please contact us at <strong>chateau-ventadour@gmail.com</strong> or via the form below.",
+    "status_prefix": "The Château de Ventadour is currently:",
+    "open": "Open",
+    "closed": "Closed",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send"
+    }
+  },
+  "footer": {
+    "address": "Ventadour Castle",
+    "follow_us": "Follow us",
+    "legal": "Legal notice"
+  }
+}
+
+
