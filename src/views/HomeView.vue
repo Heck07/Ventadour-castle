@@ -242,7 +242,7 @@ onUnmounted(() => {
 
 .hero-sub {
   font-family: 'Playfair Display', serif;
-  font-size: clamp(2rem, 2.5vw + 0.5rem, 3rem);
+  font-size: clamp(3rem, 2.5vw + 0.5rem, 4rem);
   color: rgba(255, 255, 255, 0.9);
   text-shadow: 0 3px 6px rgba(0, 0, 0, 0.4);
   margin-bottom: -3rem;
@@ -251,7 +251,7 @@ onUnmounted(() => {
 
 .hero-main {
   font-family: 'Playfair Display', serif;
-  font-size: clamp(3rem, 4vw + 1rem, 5rem);
+  font-size: clamp(4rem, 4vw + 1rem, 5rem);
   font-weight: 700;
   color: white;
   text-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);

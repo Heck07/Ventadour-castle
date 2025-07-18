@@ -4,14 +4,16 @@
 
     <div class="info">
       <p>
-        📞 <span v-html="t('contact.phone')"></span>
+        <Phone class="icon-inline" />
+        <span>{{ t('contact.phone') }}</span>
       </p>
       <p>
-        📧 <span v-html="t('contact.mail')"></span>
-
-      </p>
+        <Mail class="icon-inline" />
+        <span>{{ t('contact.mail') }}</span>
+        </p>
       <p>
-        🏰 {{ t('contact.status_prefix') }}
+        <CastleIcon class="icon-inline" />
+        {{ t('contact.status_prefix') }}
         <span :class="['status-indicator', isOpen ? 'open' : 'closed']"></span>
         <strong>{{ isOpen ? t('contact.open') : t('contact.closed') }}</strong>
       </p>
@@ -39,6 +41,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
+import { Phone, Mail, CastleIcon } from 'lucide-vue-next'
 import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
