@@ -181,6 +181,8 @@ const { t } = useI18n()
   }
   .text-block {
     margin-top: 0;
+    text-align: left;
+    font-size: 0.9rem;
   }
 
   .image-block {
@@ -189,6 +191,14 @@ const { t } = useI18n()
 
   .image-row {
     justify-content: center;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .content-row {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
 </style>
