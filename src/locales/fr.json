@@ -1,0 +1,231 @@
+{
+  "nav": {
+    "discover": "DECOUVERTE",
+    "visit": "VISITER",
+    "events": "EVENEMENTS",
+    "news": "ACTUALITES",
+    "participate": "PARTICIPER",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "hero": {
+      "subtitle": "Château de",
+      "title": "Ventadour",
+      "tagline": "Redécouvrez la grandeur médiévale, pierre après pierre"
+    },
+    "preintro": "Dix siècles d’histoires vous attendent",
+    "intro1": {
+      "title": "Sur les hauteurs de Meyras",
+      "p1": "Perché à plus de 370 mètres d’altitude, le château de Ventadour domine fièrement les vallées de l’Ardèche et de la Fontaulière.",
+      "p2": "Cette position stratégique, au cœur d’un relief escarpé, lui permettait autrefois de contrôler les voies d’accès entre la vallée du Rhône et les plateaux du Massif central.",
+      "p3": "Ce n’était pas qu’un lieu d’habitation : c’était une véritable place forte, construite pour surveiller, défendre et asseoir l’autorité seigneuriale sur les terres environnantes.",
+      "p4": "Depuis ses remparts, on embrasse un vaste panorama qui en dit long sur son rôle défensif au Moyen Âge.",
+      "p5": "Longtemps oublié, ce château a pourtant été témoin de siècles de pouvoir, de conflits, de transmission de terres, avant de tomber dans l’oubli… puis de renaître grâce à une aventure humaine hors du commun.",
+      "p6": "Aujourd’hui encore, la silhouette du château continue de marquer le paysage de Meyras, comme un lien vivant entre passé et présent."
+    },
+    "intro2": {
+      "title": "Après 57 ans de bénévolat",
+      "p1": "L’histoire moderne du château de Ventadour ne peut être racontée sans évoquer le travail acharné des bénévoles qui, depuis 1969, redonnent vie à ses ruines pierre par pierre.",
+      "p2": "À une époque où le site n’était plus qu’un amas de pierres envahi par la végétation, Pierre Pottier, enseignant et passionné de patrimoine, eut la vision audacieuse d’un château reconstruit.",
+      "p3": "Il s’entoure alors de l’Union REMPART, un réseau national de chantiers de jeunes bénévoles, pour lancer une aventure unique. Chaque été, des dizaines de jeunes venus de toute la France – et parfois de l’étranger – participent à cette renaissance, encadrés par des artisans, tailleurs de pierre et historiens.",
+      "p4": "Leur travail ne se limite pas à la maçonnerie : ils apprennent à lire les vestiges, à comprendre les gestes d’autrefois, à vivre en collectif autour d’un projet commun.",
+      "p5": "En près de six décennies, ce sont plus de 7 000 bénévoles qui ont contribué à la restauration, rendant possible ce qui semblait irréalisable. ",
+      "button": "En savoir plus ↦"
+    },
+    "events": {
+      "section_title": "En ce moment au Château de Ventadour",
+      "1": {
+        "title": "Les Ours au Cor Acier",
+        "desc": "Troupe médiévale spécialisée dans les arts du combat et la reconstitution historique, les Ours au Coracier font revivre l’ambiance des camps de guerre et les techniques de combat en armure, avec passion et authenticité."
+      },
+      "2": {
+        "title": "Les bénévoles avec l'association Rempart",
+        "desc": "Engagés pour la sauvegarde du patrimoine, les bénévoles de l’association Rempart participent à la restauration du château dans une ambiance conviviale, en alliant savoir-faire traditionnel et transmission intergénérationnelle."
+      }
+    },
+    "avis": {
+        "title": "Les visiteurs donnent leurs avis"
+    }
+  },
+  "decouvrir": {
+    "section1": {
+      "title": "Une histoire qui continue de s’écrire<br>9 siècles plus tard",
+      "p1": "Fondé au XIIᵉ siècle, le château de Ventadour s’inscrit dans la grande histoire féodale du Vivarais.",
+      "p2": "À l’origine, simple tour de guet, il se transforme au fil des siècles en une véritable forteresse, enrichie par les familles qui en prennent possession.",
+      "p3": "Sa structure évolue du donjon carré roman à un ensemble complexe de murailles, tours, salles d’apparat, pigeonniers et défenses perfectionnées.",
+      "p4": "Mais comme tant d'autres châteaux, Ventadour subit les affres du temps : guerres de Religion, Révolution française, abandon.",
+      "p5": "Au XVIIᵉ siècle, il est déjà en ruine. Au XIXᵉ, il est considéré comme un lieu romantique, vestige du passé. Pourtant, neuf siècles après sa naissance, le château connaît un nouvel âge d’or.",
+      "p6": "Grâce aux restaurations, aux visites guidées et aux chantiers pédagogiques, le site accueille aujourd’hui le public. L’histoire continue donc de s’écrire, non plus seulement dans les livres, mais sur les pierres mêmes du château, redressées par des mains modernes dans le respect du passé."
+    },
+    "section2": {
+      "title": "La volonté de Mr et Mme Potier",
+      "p1": "Lorsque Pierre et Françoise Pottier découvrent les ruines de Ventadour à la fin des années 1960, ils n’y voient pas une fin, mais un début.",
+      "p2": "Le château n’était alors qu’un amas de pierres envahi par les ronces, oublié de tous. Mais ce couple de passionnés, sans fortune ni institution derrière eux, croit fermement que ce patrimoine mérite d’être sauvé.",
+      "p3": "Pierre, pédagogue et homme de terrain, lance les premiers chantiers en partenariat avec l’Union REMPART. Françoise, tout aussi investie, assure une logistique rigoureuse : dossiers de financement, gestion des groupes, intendance, documentation historique.",
+      "p4": "Ensemble, ils forment un duo complémentaire, animé d’une volonté inébranlable. Pendant près de 50 ans, ils consacrent leur vie à cette aventure. Leur rêve n’était pas seulement de rebâtir des murs, mais de redonner du sens, de l’histoire et de l’émotion à un lieu oublié.",
+      "p5": "Aujourd’hui encore, leur action est un modèle de courage, d’engagement citoyen et de transmission."
+    },
+    "section3": {
+      "title": "Du Moyen-Âge à nos jours",
+      "p1": "Le château de Ventadour a traversé les âges, passant entre les mains de plusieurs grandes familles seigneuriales. Au XIIᵉ siècle, il appartient à la puissante famille de Solignac, avant d’être transmis par alliance aux Montlaur, puis aux Lévis au XIIIᵉ siècle.",
+      "p2": "Ce sont ces derniers qui donnent véritablement forme au château tel qu’on le connaît, avec l’ajout de nouvelles enceintes, d’une salle noble et d’éléments architecturaux d’avant-garde pour l’époque.",
+      "p3": "En 1472, le mariage de Jean de Lévis avec Blanche de Ventadour donne son nom définitif au château. La seigneurie reste prospère jusqu’au XVIIᵉ siècle, époque à partir de laquelle le site décline, notamment après son abandon par la famille de Marcieu.",
+      "p4": "Après la Révolution, il est vendu comme bien national et sert de carrière de pierres. Il faut attendre près de deux siècles pour que le château entame sa résurrection grâce à l’achat du site par Pierre Pottier en 1968.",
+      "p5": "Aujourd’hui, cette longue histoire est visible dans chaque pierre taillée, chaque mur reconstruit à l’identique, entre mémoire du Moyen Âge et vitalité contemporaine."
+    },
+    "section4": {
+      "title": "Les bénévoles et les scouts en action",
+      "p1": "Chaque été, le château de Ventadour se transforme en un immense chantier vivant, où se croisent bénévoles, scouts, artisans et passionnés de patrimoine.",
+      "p2": "Organisés autour de missions précises – maçonnerie, taille de pierre, nettoyage, consolidation – les chantiers sont aussi des lieux de transmission.",
+      "p3": "Encadrés par des professionnels, les jeunes apprennent des techniques médiévales de construction tout en découvrant la vie collective, la discipline du travail physique, et la beauté d’un projet commun. Ces chantiers sont ouverts à tous : étudiants, adultes en reconversion, familles, associations.",
+      "p4": "Leurs résultats sont spectaculaires : certaines parties du château, comme le chemin de ronde ou les hourds en bois, ont été entièrement reconstruits grâce à cette mobilisation.",
+      "p5": "Au-delà du travail, ces chantiers sont aussi des temps de partage humain, de veillées, de rencontres interculturelles, qui donnent au lieu une âme unique.",
+      "p6": "C’est peut-être là, dans cet élan collectif, que se cache la plus belle victoire du château : être redevenu un lieu vivant."
+    }
+  },
+  "timeline": {
+    "title": "Chronologie du Château de Ventadour",
+    "events": [
+      {
+        "date": "Fin XIIe siècle",
+        "title": "Fondation",
+        "desc": "Construction initiale du château par la famille de Solignac, sur l’éperon rocheux de Meyras."
+      },
+      {
+        "date": "1195",
+        "title": "Fief de Montlaur",
+        "desc": "Pons V de Montlaur hérite de Meyras par son mariage avec Miracle de Solignac."
+      },
+      {
+        "date": "XIVe siècle",
+        "title": "Ajout d’une tour",
+        "desc": "Une seconde tour est ajoutée au donjon, renforçant la défense du château."
+      },
+      {
+        "date": "1472",
+        "title": "Lévis-Ventadour",
+        "desc": "Louis de Lévis épouse Blanche de Ventadour. Le nom “Lévis-Ventadour” apparaît."
+      },
+      {
+        "date": "1578",
+        "title": "Duché de Ventadour",
+        "desc": "Le domaine est érigé en duché-pairie par Henri III. Gilbert III devient duc."
+      },
+      {
+        "date": "XVIIe siècle",
+        "title": "Abandon progressif",
+        "desc": "Le château cesse d’être habité et commence à se dégrader après les guerres de Religion."
+      },
+      {
+        "date": "Révolution (vers 1793)",
+        "title": "Carrière de pierres",
+        "desc": "Vendu comme bien national, le château est démantelé pour ses matériaux."
+      },
+      {
+        "date": "4 mai 1937",
+        "title": "Monument Historique",
+        "desc": "Le château est officiellement classé monument historique."
+      },
+      {
+        "date": "1968–1969",
+        "title": "Rachat par les Pottier",
+        "desc": "Pierre et Françoise Pottier acquièrent le site et lancent les premiers chantiers bénévoles."
+      },
+      {
+        "date": "Depuis 1969",
+        "title": "Restauration continue",
+        "desc": "Plus de 7 000 bénévoles ont participé à la sauvegarde du château."
+      }
+    ]
+  },
+  "visiter": {
+    "schedule": {
+      "title": "Date & Horaires",
+      "open": "Le Château est ouvert du 01/07/2025 au 01/09/2025",
+      "hours": "Visites de 10h00 – 12h00 et de 14h00 – 18h00",
+      "time": "Durée de la visite : 1h à 1h30"
+    },
+    "price": {
+      "title": "Tarif unique",
+      "standard": "5€ par personne",
+      "kids": "Gratuit pour les enfants < 6 ans",
+      "donate": "Les dons sont les bienvenues"
+    },
+    "access": {
+      "title": "Accès au site",
+      "text": "Un parking est disponible au pied du château sur bord de la Route D135 à l'adresse : Ventadour, 19140 Moustier-Ventadour. Il est recommandé de porter de bonnes chaussures. Une montée de 10 minutes est à prévoir pour arriver au sommet du château."
+    }
+  },
+   "event": {
+    "title": "Les évènements proposés à Ventadour",
+    "coracier": {
+      "title": "Les Ours au Cor Acier",
+      "dates": "Chaque dimanche du 14/07/2025 au 28/08/2025",
+      "desc": "Troupe médiévale spécialisée dans les arts du combat et la reconstitution historique, les Ours au Coracier font revivre l’ambiance des camps de guerre et les techniques de combat en armure, avec passion et authenticité."
+    }
+  },
+      "eventFocus": {
+    "coracier": {
+      "title": "Les Ours au Cor Acier",
+      "dates": "Chaque dimanche du 14/07/2025 au 28/08/2025",
+      "p1": "Les Ours au Coracier sont une troupe de passionnés de reconstitution médiévale, spécialisés dans le combat en armure.",
+      "p2": "Leur campement immersif et leurs démonstrations spectaculaires transportent les visiteurs au cœur du Moyen Âge, entre maniement des armes, vie de camp et valeurs de camaraderie.",
+      "p3": "Maîtres dans l’art du combat chorégraphié, ils mêlent rigueur historique et mise en scène pour offrir une expérience aussi authentique que captivante.",
+      "p4": "Les Ours au Coracier font revivre l’époque des chevaliers avec panache, mêlant pédagogie, performance et interaction avec le public, petits et grands."
+    }
+  },
+    "actu": {
+    "title": "Les dernières actualités à Ventadour",
+    "actus1": {
+      "title": "L’équipe de rugby d’Aubenas viens en aide pour la préparation printanière",
+      "date": "01/05/2025",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quibusdam possimus officiis ut quasi, ducimus in autem perspiciatis eveniet itaque quos tempore aut est nesciunt maiores, non voluptas ipsa rerum."
+    },
+    "actus2": {
+      "title": "Ouverture du château à l’occasion des Journées Européennes du Patrimoine !",
+      "date": "21/05/2025",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam error id dolor ut laborum, quam ipsa dolores saepe ducimus, consectetur non illum consequuntur tempore magni veniam molestiae, iusto aspernatur pariatur."
+    }
+  },
+    "actusFocus": {
+    "title": "L’équipe de rugby d’Aubenas viens en aide<br>pour la préparation printanière",
+    "date": "01/05/2025"
+  },
+   "participer": {
+    "title": "Rejoignez le chantier en tant que bénévole avec l’association Rempart",
+    "bloc1": {
+      "title": "Travaux de restauration prévus",
+      "desc": "Participer jusqu’à 3 semaines sur le chantier, les bénévoles interviendront sur la tour à échauguette principalement. Il s’agit de repositionner les corbeaux et l’embase de la tour et éventuellement l’arc de la tour de l’horloge qui accueille l’échauguette. Taille de pierre et maçonnerie à la chaux sont au programme !"
+    },
+    "bloc2": {
+      "title": "Vie collective et hébergement",
+      "p1": "Pendant le séjour vous serez encadrés par un tailleur de pierre maçon professionnel qui vous enseignera son savoir sur le bâti traditionnel. Deux membres de l’association vous accueilleront et vous accompagneront dans l’organisation de la vie quotidienne et des activités.",
+      "p2": "Le chantier commence à 8h afin de ne pas souffrir de la chaleur estivale. Il s’étale du lundi au vendredi. Le samedi est un temps libre et le dimanche, le château est animé par une association d’escrime médiévale : l’Ours au Cor Acier !",
+      "p3": "Vous êtes hébergés directement dans le château où un grand dortoir vous accueille. Une grande cuisine / salle à manger nous permet d’échanger lors de nos repas.",
+      "p4": "Vous assurerez la préparation des repas, à tour de rôle, en équipe. Chacun pourra ainsi faire découvrir les recettes de sa région et profiter du séjour pour goûter aux innombrables spécialités des autres régions ou pays. Si vous êtes déjà un « chef », c’est parfait, si vous ne l’êtes pas… À vos recettes de cuisine !"
+    },
+    "cta": "Je souhaite participer →",
+    "link": "https://www.rempart.com/fr/agenda/ventadour-2025-session-3-11062"
+
+  },
+  "contact": {
+    "title": "Contact",
+    "phone": "Le château est joignable au <strong>06.99.33.55.27</strong><br> de 09h30 à 19h00 (juillet–août) pour plus d’informations.",
+    "mail": "Pour toute autre requête, merci de nous contacter par mail à <strong>chateau-ventadour@gmail.com</strong> ou via le formulaire ci-dessous.",
+    "status_prefix": "Le château de Ventadour est actuellement :",
+    "open": "Ouvert",
+    "closed": "Fermé",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer"
+    }
+  },
+    "footer": {
+    "address": "Château de Ventadour",
+    "follow_us": "Suivez nous",
+    "legal": "Mentions légales"
+  }
+}
