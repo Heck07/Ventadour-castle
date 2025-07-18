@@ -242,16 +242,16 @@ onUnmounted(() => {
 
 .hero-sub {
   font-family: 'Playfair Display', serif;
-  font-size: clamp(1.5rem, 2.5vw + 0.5rem, 3rem);
+  font-size: clamp(2rem, 2.5vw + 0.5rem, 3rem);
   color: rgba(255, 255, 255, 0.9);
-    text-shadow: 0 3px 6px rgba(0, 0, 0, 0.4);
+  text-shadow: 0 3px 6px rgba(0, 0, 0, 0.4);
   margin-bottom: -3rem;
   display: block;
 }
 
 .hero-main {
   font-family: 'Playfair Display', serif;
-  font-size: clamp(2.5rem, 4vw + 1rem, 5rem);
+  font-size: clamp(3rem, 4vw + 1rem, 5rem);
   font-weight: 700;
   color: white;
   text-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
@@ -312,7 +312,7 @@ onUnmounted(() => {
 }
 
 .intro-block h2 {
-  font-size: clamp(1.6rem, 2vw + 0.5rem, 2.7rem);
+  font-size: clamp(2.3rem, 4vw, 3rem);
   margin: 0;
   margin-bottom: 3vh;
   color: #768652;
@@ -386,7 +386,7 @@ button {
 
 
 .events h3 {
-  font-size: clamp(1.2rem, 1.5vw + 0.5rem, 1.8rem);
+  font-size: clamp(2.3rem, 4vw, 3rem);
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 0;
@@ -443,7 +443,7 @@ button {
 }
 
 .avis h2 {
-  font-size: clamp(1.4rem, 2vw, 2.2rem);
+  font-size: clamp(2.3rem, 4vw, 3rem);
   margin-bottom: 0px;
   color: black;
   text-shadow: none;

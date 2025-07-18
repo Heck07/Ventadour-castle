@@ -43,7 +43,7 @@ const events = Array.from({ length: 10 })
   text-align: center;
   font-size: 2.7rem;
   color: #768652;
-  text-shadow: 1px 1px 3px #3e442866;
+  text-shadow: 1px 1px 3px #3e442844;
   margin-bottom: 3rem;
 }
 
@@ -60,10 +60,10 @@ const events = Array.from({ length: 10 })
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   position: relative;
-width: 100%;
-max-width: 1200px; /* ou la valeur que tu veux */
-margin: 0 auto;  
-gap: 0.3rem;
+  width: 100%;
+  max-width: 1200px; /* ou la valeur que tu veux */
+  margin: 0 auto;  
+  gap: 0.3rem;
   align-items: center;
 }
 

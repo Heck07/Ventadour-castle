@@ -25,6 +25,7 @@
     <div class="footer-bottom">
       <p>© 2025 Château de Ventadour —
         <RouterLink to="/mentions-legales">Mentions légales</RouterLink>
+        <router-link to="/admin">🌍</router-link>
       </p>
     </div>
   </footer>

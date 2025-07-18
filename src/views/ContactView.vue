@@ -60,14 +60,22 @@ const handleSubmit = async (e) => {
   e.preventDefault()
   sending.value = true
   success.value = null
+
   try {
-    const res = await fetch('http://localhost:3001/api/contact', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name: name.value, email: email.value, subject: subject.value, message: message.value }),
-    })
-    success.value = res.ok
-    if (res.ok) {
+    if (import.meta.env.PROD) {
+      // simulation en ligne
+      await new Promise((resolve) => setTimeout(resolve, 1000))
+      success.value = true
+    } else {
+      const res = await fetch('http://localhost:3001/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: name.value, email: email.value, subject: subject.value, message: message.value }),
+      })
+      success.value = res.ok
+    }
+
+    if (success.value) {
       name.value = ''
       email.value = ''
       subject.value = ''
