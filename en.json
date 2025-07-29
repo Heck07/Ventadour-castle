@@ -1,10 +1,10 @@
 {
   "nav": {
-    "discover": "DISCOVER",
+    "discover": "STORY",
     "visit": "VISIT",
-    "events": "EVENTS",
+    "agenda": "EVENTS",
     "news": "NEWS",
-    "participate": "GET INVOLVED",
+    "participate": "THE ASSOCIATION",
     "contact": "CONTACT"
   },
   "home": {
@@ -24,12 +24,12 @@
       "p6": "Today, the castle’s silhouette still marks the landscape of Meyras, a living link between past and present."
     },
     "intro2": {
-      "title": "After 57 years of volunteering",
-      "p1": "The modern history of the castle of Ventadour cannot be told without mentioning the hard work of the volunteers who, since 1969, have brought its ruins back to life, stone by stone.",
-      "p2": "At a time when the site was nothing but a pile of stones overgrown with vegetation, Pierre Pottier, a teacher and heritage enthusiast, had the bold vision of a rebuilt castle.",
-      "p3": "He then joined forces with the REMPART Union, a national network of youth volunteer workcamps, to launch a unique adventure. Each summer, dozens of young people from all over France – and sometimes from abroad – take part in this revival, guided by craftsmen, stonecutters, and historians.",
-      "p4": "Their work goes beyond masonry: they learn to read the remains, understand ancient gestures, and live collectively around a common project.",
-      "p5": "In nearly six decades, more than 7,000 volunteers have contributed to the restoration, making possible what once seemed unachievable.",
+      "title": "After 57 Years of Volunteer Work",
+      "p1": "The modern history of the Château de Ventadour cannot be told without highlighting the tireless efforts of volunteers who, since 1969, have been bringing its ruins back to life, stone by stone.",
+      "p2": "At a time when the site was nothing more than a pile of stones overrun by vegetation, Pierre Pottier — a teacher, heritage enthusiast, and one of the founders of the REMPART association — had the bold vision of a rebuilt castle.",
+      "p3": "With the support of Union REMPART — a national network of youth volunteer workcamps that he helped establish — he launched a unique adventure. Every summer, volunteers from all over France, and sometimes from abroad, take part in this revival, guided by artisans, stonemasons, and historians.",
+      "p4": "Their work goes beyond masonry: they learn to read the remains, understand traditional craftsmanship, and live together around a shared project.",
+      "p5": "Over nearly six decades, more than 7,000 volunteers have contributed to the restoration, making possible what once seemed impossible.",
       "button": "Learn more ↦"
     },
     "events": {
@@ -59,12 +59,12 @@
       "p6": "Thanks to restorations, guided tours, and educational workcamps, the site now welcomes the public. The story is still being written — not just in books, but in the very stones of the castle, raised once again by modern hands with deep respect for the past."
     },
     "section2": {
-      "title": "The dedication of Mr. and Mrs. Pottier",
-      "p1": "When Pierre and Françoise Pottier discovered the ruins of Ventadour in the late 1960s, they didn’t see an end — they saw a beginning.",
-      "p2": "At the time, the castle was nothing more than a pile of stones overrun by brambles, forgotten by all. But this passionate couple, with no wealth or institutional backing, firmly believed this heritage deserved to be saved.",
-      "p3": "Pierre, a teacher and man of action, launched the first restoration projects in partnership with the REMPART Union. Françoise, equally dedicated, handled the logistics: funding applications, group coordination, historical documentation, and daily management.",
-      "p4": "Together, they formed a complementary duo with unwavering determination. For nearly 50 years, they devoted their lives to this project. Their dream was not just to rebuild walls, but to restore meaning, history, and emotion to a forgotten place.",
-      "p5": "Even today, their efforts remain a model of courage, civic engagement, and cultural transmission."
+      "title": "The Dedication of Pierre and Françoise",
+      "p1": "In the late 1960s, Pierre Pottier discovered the ruins of Ventadour — a forgotten site overtaken by brambles, where only a few stones still whispered of its past glory.",
+      "p2": "Driven by a passion for heritage and a deep sense of purpose, Pierre began the restoration almost single-handedly, armed only with determination and a vision.",
+      "p3": "It was on this very worksite that he met Françoise, a volunteer like him, whose energy, kindness, and commitment quickly made her an essential part of the adventure.",
+      "p4": "Over time, Pierre and Françoise became a united and complementary team. Initially alone in leading the restoration project, Pierre was soon joined by Françoise, whom he met on the worksite and who shared his passion. She took on the organization of daily life, logistics, historical research, and the smooth running of the activities.",
+      "p5": "Together, for nearly 50 years, they brought Ventadour back to life — not just its walls, but its soul. Their story remains a powerful example of passion, perseverance, and collective spirit."
     },
     "section3": {
       "title": "From the Middle Ages to today",
@@ -148,9 +148,9 @@
     },
     "price": {
       "title": "Flat Rate",
-      "standard": "€5 per person",
-      "kids": "Free for children < 6 years old",
-      "donate": "Donations are welcome"
+      "standard": "7€ per person",
+      "kids": "Free for children < 10 years old",
+      "donate": " Donations are welcome"
     },
     "access": {
       "title": "Site Access",
@@ -207,7 +207,7 @@
   },
    "contact": {
     "title": "Contact",
-    "phone": "The castle can be reached at <strong>+33 6 99 33 55 27</strong> from 9:30 AM to 7:00 PM (July August) for more information.",
+    "phone": "The castle can be reached at <strong>+33 4 75 38 00 92</strong> from 9:30 AM to 7:00 PM (July August) for more information.",
     "mail": "For any other inquiries, please contact us at <strong>chateau-ventadour[at]gmail.com</strong> or via the form below.",
     "status_prefix": "The Château de Ventadour is currently:",
     "open": "Open",
