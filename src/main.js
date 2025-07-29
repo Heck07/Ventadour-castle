@@ -4,9 +4,11 @@ import router from './router'
 import { createI18n } from 'vue-i18n'
 import './assets/main.css'
 
+const base = import.meta.env.BASE_URL
+
 Promise.all([
-  fetch('/Ventadour-castle/fr.json').then((res) => res.json()),
-  fetch('/Ventadour-castle/en.json').then((res) => res.json())
+  fetch(`${base}fr.json`).then((res) => res.json()),
+  fetch(`${base}en.json`).then((res) => res.json())
 ]).then(([fr, en]) => {
   const i18n = createI18n({
     legacy: false,
