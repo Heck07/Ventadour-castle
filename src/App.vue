@@ -3,8 +3,10 @@
     <LanguageTransition ref="langTransition" />
     <AppHeader />
     <main :style="{ paddingTop: headerHeight }" class="flex-grow">
-      <router-view />
-        <ScrollToTop />
+      <div v-viewer>
+        <router-view />
+      </div>
+      <ScrollToTop />
     </main>
     <AppFooter />
   </div>

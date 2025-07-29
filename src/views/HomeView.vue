@@ -62,15 +62,15 @@
 
   <section class="icons">
     <RouterLink to="/visiter" class="icon" aria-label="Voir les horaires">
-      <img src="../assets/ico/clock.svg" alt="Horaires" />
+      <img src="../assets/ico/clock.svg" class="no-zoom" alt="Horaires" />
     </RouterLink>
 
-    <RouterLink to="/actualites" class="icon" aria-label="Voir les actualités">
-      <img src="../assets/ico/news.svg" alt="Actualités" />
+    <RouterLink to="/agenda" class="icon" aria-label="Voir les actualités">
+      <img src="../assets/ico/news.svg" class="no-zoom" alt="Actualités" />
     </RouterLink>
 
     <RouterLink :to="{ path: '/visiter', hash: '#price' }" class="icon" aria-label="Voir les tarifs">
-      <img src="../assets/ico/euro.svg" alt="Tarifs" />
+      <img src="../assets/ico/euro.svg" class="no-zoom" alt="Tarifs" />
     </RouterLink>
   </section>
 
@@ -80,14 +80,14 @@
     <h2 class="decorated-title-center">{{ t('home.events.section_title') }}</h2>
     <div class="event-list">
       <div class="event">
-        <img src="../assets/img/coracier.jpg" alt="Blason">
+        <img src="../assets/img/coracier.jpg" class="no-zoom" alt="Blason">
         <div>
           <h3><i>{{ t('home.events.1.title') }}</i></h3>
           <p>{{ t('home.events.1.desc') }}Lorem</p>
         </div>
       </div>
       <div class="event">
-        <img src="../assets/img/rempart.png" alt="Logo Rempart">
+        <img src="../assets/img/rempart.png" class="no-zoom" alt="Logo Rempart">
         <div>
           <h3><i>{{ t('home.events.2.title') }}</i></h3>
           <p>{{ t('home.events.2.desc') }}</p>

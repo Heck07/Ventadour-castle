@@ -16,7 +16,7 @@
     <h2 class="decorated-title-center">{{ t('participer.title') }}</h2>
 
     <div class="participer-bloc">
-      <img src="../assets/img/rempart.png" alt="Logo Rempart" class="logo" />
+      <img src="../assets/img/rempart.png" alt="Logo Rempart" class="logo no-zoom" />
       <div>
         <h3>{{ t('participer.bloc1.title') }}</h3>
         <p>{{ t('participer.bloc1.desc') }}</p>
@@ -93,6 +93,7 @@ h3 {
 
 .img-asso {
   max-height: 300px;
+  border-radius: 3px;
 }
 
 .participer-bloc {
@@ -121,11 +122,12 @@ h3 {
 }
 
 .participer-images img {
-   height: 100%;
-  object-fit: fill;
-  max-height: 250px;
-  aspect-ratio: 3 / 2.2;  
-  border-radius: 4px;
+  width: 100%;
+  height: 250px;
+  object-fit: cover; /* rogne l'image sans la déformer */
+  object-position: center; /* centre le cadrage */
+  aspect-ratio: 3 / 2.2; /* ratio facultatif ici si width + height sont fixés */
+  border-radius: 3px;
 }
 
 .cta-container {
