@@ -69,7 +69,7 @@
       <img src="../assets/ico/news.svg" alt="Actualités" />
     </RouterLink>
 
-    <RouterLink to="/visiter" class="icon" aria-label="Voir les tarifs">
+    <RouterLink :to="{ path: '/visiter', hash: '#price' }" class="icon" aria-label="Voir les tarifs">
       <img src="../assets/ico/euro.svg" alt="Tarifs" />
     </RouterLink>
   </section>
@@ -83,7 +83,7 @@
         <img src="../assets/img/coracier.jpg" alt="Blason">
         <div>
           <h3><i>{{ t('home.events.1.title') }}</i></h3>
-          <p>{{ t('home.events.1.desc') }}</p>
+          <p>{{ t('home.events.1.desc') }}Lorem</p>
         </div>
       </div>
       <div class="event">
@@ -304,7 +304,7 @@ onUnmounted(() => {
 }
 
 .intro-block img {
-   height: 100%;
+  height: 100%;
   object-fit: cover;
   max-height: 400px;
   display: flex;
@@ -316,12 +316,12 @@ onUnmounted(() => {
   margin: 0;
   margin-bottom: 3vh;
   color: #768652;
-text-shadow: 1px 1px 3px #3e442844;
+  text-shadow: 1px 1px 3px #3e442844;
 }
 
 .intro-block p {
-  margin: 0.33rem 0;
-  font-size: clamp(0.95rem, 1vw + 0.5rem, 1.2rem);
+  margin: 0.5rem 0;
+  font-size: clamp(0.95rem, 14px + 0.3rem, 1.2rem);
 }
 
 button {

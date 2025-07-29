@@ -1,5 +1,18 @@
 <template>
   <section class="section">
+    <h2 class="decorated-title-center">{{ t('participer.title2') }}</h2>
+    <div class="association-bloc">
+      <img src="../assets/img/association.jpg" alt="Logo Rempart" class="img-asso" />
+      <div class="assocation-text">
+        <h3 class="association-title">{{ t('participer.bloc3.title') }}</h3>
+        <p>{{ t('participer.bloc3.p1') }}</p>
+        <p>{{ t('participer.bloc3.p2') }}</p>
+      </div>
+    </div>
+  </section>
+    
+
+  <section class="section">
     <h2 class="decorated-title-center">{{ t('participer.title') }}</h2>
 
     <div class="participer-bloc">
@@ -31,7 +44,7 @@
       </div>
 
       <div class="participer-images">
-        <img src="../assets/img/chantier1.jpg" alt="Travaux 1" />
+        <img src="../assets/img/benevoles_2025.jpg" alt="Travaux 1" />
         <img src="../assets/img/chantier2.jpg" alt="Travaux 2" />
       </div>
     </div>
@@ -60,6 +73,28 @@ h3 {
   font-weight: bold;
 }
 
+.association-bloc {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.assocation-text {
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.association-title {
+  margin-top: 0;
+}
+
+.img-asso {
+  max-height: 300px;
+}
+
 .participer-bloc {
   display: flex;
   flex-wrap: wrap;
@@ -75,7 +110,7 @@ h3 {
 }
 
 .logo {
-  width: 150px;
+  width: 200px;
 }
 
 .participer-images {
@@ -87,7 +122,7 @@ h3 {
 
 .participer-images img {
    height: 100%;
-  object-fit: contain;
+  object-fit: fill;
   max-height: 250px;
   aspect-ratio: 3 / 2.2;  
   border-radius: 4px;
@@ -117,8 +152,16 @@ h3 {
 
 @media screen and (max-width: 850px) {
   .participer-bloc,
-  .participer-bloc.reverse {
+  .participer-bloc.reverse,
+  .association-bloc {
+    display:flex;
+    flex-wrap:wrap;
     flex-direction: column !important;
+    align-items: center;
+    text-align: center;
+  }
+
+  .assocation-text {
     text-align: center;
   }
 
@@ -131,14 +174,17 @@ h3 {
     gap: 1rem;
   }
 
-  .participer-images img {
-    max-width: 90%;
+  .participer-images img,
+  .img-asso {
+    display: flex;
+    align-items: center;
     height: auto;
+    max-width: 200px;
     max-height: 200px;
   }
 
   .logo {
-    width: 90px;
+    width: 150px;
     margin-bottom: 1rem;
   }
 

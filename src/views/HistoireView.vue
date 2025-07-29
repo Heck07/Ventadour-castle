@@ -20,20 +20,6 @@ import Timeline from '../components/Timeline.vue'
   </section>
 
   <section class="section">
-    <h2 class="decorated-title-center">{{ t('decouvrir.section2.title') }}</h2>
-    <div class="row">
-      <div class="text">
-        <p class="lettrine-simple">{{ t('decouvrir.section2.p1') }}</p>
-        <p>{{ t('decouvrir.section2.p2') }}</p>
-        <p>{{ t('decouvrir.section2.p3') }}</p>
-        <p>{{ t('decouvrir.section2.p4') }}</p>
-        <p>{{ t('decouvrir.section2.p5') }}</p>
-      </div>
-      <img src="../assets/img/pottier.jpg" alt="Château ancien" />
-    </div>
-  </section>
-
-  <section class="section">
     <h2 class="decorated-title-center">{{ t('decouvrir.section3.title') }}</h2>
     <div class="row">
       <img src="../assets/img/ventadour_old.jpg" alt="Château actuel" />
@@ -59,6 +45,20 @@ import Timeline from '../components/Timeline.vue'
         <p>{{ t('decouvrir.section4.p6') }}</p>
       </div>
       <img src="../assets/img/bene_scout.jpg" alt="Scouts et bénévoles" />
+    </div>
+  </section>
+
+  <section class="section">
+    <h2 class="decorated-title-center">{{ t('decouvrir.section2.title') }}</h2>
+    <div class="row">
+      <img src="../assets/img/pottier.jpg" alt="Château ancien" />
+      <div class="text">
+        <p class="lettrine-simple">{{ t('decouvrir.section2.p1') }}</p>
+        <p>{{ t('decouvrir.section2.p2') }}</p>
+        <p>{{ t('decouvrir.section2.p3') }}</p>
+        <p>{{ t('decouvrir.section2.p4') }}</p>
+        <p>{{ t('decouvrir.section2.p5') }}</p>
+      </div>
     </div>
   </section>
 

@@ -15,13 +15,13 @@
   </section>
 
 
-  <section class="section">
-    <h2 class="decorated-title-left">{{ t('visiter.price.title') }}</h2>
+  <section  class="section">
+    <h2 id="price" class="decorated-title-left">{{ t('visiter.price.title') }}</h2>
     <div class="content-row">
       <div class="text-block">
         <p><Euro class="icon-inline" /> {{ t('visiter.price.standard') }}</p>
         <p><Baby class="icon-inline" /> {{ t('visiter.price.kids') }}</p>
-        <p><HandCoins class="icon-inline" />{{ t('visiter.price.donate') }}</p>
+        <p><HandCoins class="icon-inline" /> {{ t('visiter.price.donate') }}</p>
       </div>
       <div class="image-block">
         <img src="../assets/img/ventadour_1818.jpg" alt="Dessin du château 1818" />
@@ -133,9 +133,9 @@ const { t } = useI18n()
 }
 
 .icon-inline {
-  width: 1.3em;
-  height: 1.3em;
-  vertical-align: -0.1em;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: text-bottom;
   margin-right: 0.3em;
   stroke: #666;
 }
@@ -160,6 +160,7 @@ const { t } = useI18n()
   margin-bottom: 0rem;
   padding-bottom: 0rem;
   display: inline-block;
+  
 }
 
 @media screen and (max-width: 850px) {

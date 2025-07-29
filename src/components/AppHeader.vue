@@ -15,11 +15,10 @@
 
     <!-- Menu desktop -->
     <nav v-if="!showBurger" class="nav-zone">
-      <router-link to="/decouvrir">{{ t('nav.discover') }}</router-link>
+      <router-link to="/histoire">{{ t('nav.discover') }}</router-link>
       <router-link to="/visiter">{{ t('nav.visit') }}</router-link>
-      <router-link to="/evenements">{{ t('nav.events') }}</router-link>
-      <router-link to="/actualites">{{ t('nav.news') }}</router-link>
-      <router-link to="/participer">{{ t('nav.participate') }}</router-link>
+      <router-link to="/agenda">{{ t('nav.agenda') }}</router-link>
+      <router-link to="/association">{{ t('nav.participate') }}</router-link>
       <router-link to="/contact">{{ t('nav.contact') }}</router-link>
     </nav>
 
@@ -28,8 +27,7 @@
       <nav class="mobile-nav">
         <router-link @click="toggleMenu" to="/decouvrir">{{ t('nav.discover') }}</router-link>
         <router-link @click="toggleMenu" to="/visiter">{{ t('nav.visit') }}</router-link>
-        <router-link @click="toggleMenu" to="/evenements">{{ t('nav.events') }}</router-link>
-        <router-link @click="toggleMenu" to="/actualites">{{ t('nav.news') }}</router-link>
+        <router-link @click="toggleMenu" to="/agenda">{{ t('nav.agenda') }}</router-link>
         <router-link @click="toggleMenu" to="/participer">{{ t('nav.participate') }}</router-link>
         <router-link @click="toggleMenu" to="/contact">{{ t('nav.contact') }}</router-link>
 
@@ -124,7 +122,7 @@ watch(selectedLang, async (newLang, oldLang) => {
 
 .nav-zone {
   display: flex;
-  gap: clamp(0.7rem, 1.5vw, 2.5rem);
+  gap: clamp(0.7rem, 3vw, 4rem);
   justify-content: center;
   flex: 1;
 }

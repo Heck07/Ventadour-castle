@@ -29,8 +29,7 @@ import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
 
-// La structure `events` sert uniquement à itérer sur le nombre d’éléments
-const events = Array.from({ length: 10 })
+const events = Array.from({ length: 10})
 </script>
 
 <style scoped>

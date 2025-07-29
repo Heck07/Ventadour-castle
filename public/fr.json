@@ -1,10 +1,9 @@
 {
   "nav": {
-    "discover": "DECOUVERTE",
+    "discover": "HISTOIRE",
     "visit": "VISITER",
-    "events": "EVENEMENTS",
-    "news": "ACTUALITES",
-    "participate": "PARTICIPER",
+    "agenda": "AGENDA",
+    "participate": "L'ASSOCIATION",
     "contact": "CONTACT"
   },
   "home": {
@@ -26,10 +25,10 @@
     "intro2": {
       "title": "Après 57 ans de bénévolat",
       "p1": "L’histoire moderne du château de Ventadour ne peut être racontée sans évoquer le travail acharné des bénévoles qui, depuis 1969, redonnent vie à ses ruines pierre par pierre.",
-      "p2": "À une époque où le site n’était plus qu’un amas de pierres envahi par la végétation, Pierre Pottier, enseignant et passionné de patrimoine, eut la vision audacieuse d’un château reconstruit.",
-      "p3": "Il s’entoure alors de l’Union REMPART, un réseau national de chantiers de jeunes bénévoles, pour lancer une aventure unique. Chaque été, des dizaines de jeunes venus de toute la France – et parfois de l’étranger – participent à cette renaissance, encadrés par des artisans, tailleurs de pierre et historiens.",
+      "p2": "À une époque où le site n’était plus qu’un amas de pierres envahi par la végétation, Pierre Pottier, enseignant, passionné de patrimoine et l’un des fondateurs de l’association REMPART, eut la vision audacieuse d’un château reconstruit.",
+      "p3": "Avec l'appui de l’Union REMPART – réseau national de chantiers de jeunes bénévoles qu’il a contribué à créer – il lance une aventure unique. Chaque été, des bénévoles venus de toute la France, et parfois de l’étranger, participent à cette renaissance, encadrés par des artisans, tailleurs de pierre et historiens.",
       "p4": "Leur travail ne se limite pas à la maçonnerie : ils apprennent à lire les vestiges, à comprendre les gestes d’autrefois, à vivre en collectif autour d’un projet commun.",
-      "p5": "En près de six décennies, ce sont plus de 7 000 bénévoles qui ont contribué à la restauration, rendant possible ce qui semblait irréalisable. ",
+      "p5": "En près de six décennies, ce sont plus de 7 000 bénévoles qui ont contribué à la restauration, rendant possible ce qui semblait irréalisable.",
       "button": "En savoir plus ↦"
     },
     "events": {
@@ -58,12 +57,12 @@
       "p6": "Grâce aux restaurations, aux visites guidées et aux chantiers pédagogiques, le site accueille aujourd’hui le public. L’histoire continue donc de s’écrire, non plus seulement dans les livres, mais sur les pierres mêmes du château, redressées par des mains modernes dans le respect du passé."
     },
     "section2": {
-      "title": "La volonté de Mr et Mme Potier",
-      "p1": "Lorsque Pierre et Françoise Pottier découvrent les ruines de Ventadour à la fin des années 1960, ils n’y voient pas une fin, mais un début.",
-      "p2": "Le château n’était alors qu’un amas de pierres envahi par les ronces, oublié de tous. Mais ce couple de passionnés, sans fortune ni institution derrière eux, croit fermement que ce patrimoine mérite d’être sauvé.",
-      "p3": "Pierre, pédagogue et homme de terrain, lance les premiers chantiers en partenariat avec l’Union REMPART. Françoise, tout aussi investie, assure une logistique rigoureuse : dossiers de financement, gestion des groupes, intendance, documentation historique.",
-      "p4": "Ensemble, ils forment un duo complémentaire, animé d’une volonté inébranlable. Pendant près de 50 ans, ils consacrent leur vie à cette aventure. Leur rêve n’était pas seulement de rebâtir des murs, mais de redonner du sens, de l’histoire et de l’émotion à un lieu oublié.",
-      "p5": "Aujourd’hui encore, leur action est un modèle de courage, d’engagement citoyen et de transmission."
+      "title": "L'engagement de Pierre et Françoise",
+      "p1": "À la fin des années 1960, Pierre Pottier découvre les ruines du château de Ventadour — un site oublié, envahi par les ronces, où seules quelques pierres laissaient deviner sa grandeur passée.",
+      "p2": "Animé par sa passion pour le patrimoine et une profonde conviction, Pierre se lance presque seul dans l’aventure de la restauration, avec pour seuls outils sa volonté et une vision claire.",
+      "p3": "C’est sur ce chantier qu’il fait la rencontre de Françoise, jeune bénévole comme lui, dont l’énergie, la bienveillance et l’engagement deviendront rapidement indispensables au projet.",
+      "p4": "Peu à peu, Pierre et Françoise forment un duo uni et complémentaire. D’abord seul à porter le projet de restauration, Pierre voit bientôt Françoise, rencontrée sur le chantier, s’engager avec la même passion. Elle prend en charge l’organisation de la vie collective, la logistique, les recherches historiques et le bon déroulement quotidien des activités.",
+      "p5": "Pendant près de 50 ans, ils redonnent vie à Ventadour — non seulement à ses pierres, mais à son âme. Leur histoire reste un exemple fort de passion, de persévérance et d’engagement collectif."
     },
     "section3": {
       "title": "Du Moyen-Âge à nos jours",
@@ -147,9 +146,9 @@
     },
     "price": {
       "title": "Tarif unique",
-      "standard": "5€ par personne",
-      "kids": "Gratuit pour les enfants < 6 ans",
-      "donate": "Les dons sont les bienvenus"
+      "standard": "7€ par personne",
+      "kids": "Gratuit pour les enfants < 10 ans",
+      "donate": " Les dons sont les bienvenus"
     },
     "access": {
       "title": "Accès au site",
@@ -193,6 +192,7 @@
   },
    "participer": {
     "title": "Rejoignez le chantier en tant que bénévole avec l’association Rempart",
+    "title2": "L'association du Château de Ventadour",
     "bloc1": {
       "title": "Travaux de restauration prévus",
       "desc": "Participer jusqu’à 3 semaines sur le chantier, les bénévoles interviendront sur la tour à échauguette principalement. Il s’agit de repositionner les corbeaux et l’embase de la tour et éventuellement l’arc de la tour de l’horloge qui accueille l’échauguette. Taille de pierre et maçonnerie à la chaux sont au programme !"
@@ -204,14 +204,19 @@
       "p3": "Vous êtes hébergés directement dans le château où un grand dortoir vous accueille. Une grande cuisine / salle à manger nous permet d’échanger lors de nos repas.",
       "p4": "Vous assurerez la préparation des repas, à tour de rôle, en équipe. Chacun pourra ainsi faire découvrir les recettes de sa région et profiter du séjour pour goûter aux innombrables spécialités des autres régions ou pays. Si vous êtes déjà un 'chef', c’est parfait, si vous ne l’êtes pas… À vos recettes de cuisine !"
     },
+    "bloc3": {
+      "title": "Gardienne de la Mémoire et de la Vie du Site",
+      "p1": "Depuis plusieurs décennies, l’association du Château de Ventadour œuvre avec passion pour la sauvegarde, la restauration et la valorisation de cette forteresse médiévale nichée sur les hauteurs de Meyras, en Ardèche. Composée de bénévoles, d’artisans, d’historiens et de passionnés de patrimoine, elle anime le site tout au long de l’année par des chantiers, des visites guidées, des événements culturels et des activités pédagogiques.",
+      "p2": "Grâce à son engagement, le château, autrefois en ruines, renaît pierre après pierre, devenant un lieu vivant de transmission, d’expérimentation et de rencontres. L’association incarne l’esprit de partage et de mémoire, en tissant un lien fort entre le passé et le présent, au cœur d’un territoire riche en histoire et en nature."
+    },
     "cta": "Je souhaite participer →",
     "link": "https://www.rempart.com/fr/agenda/ventadour-2025-session-3-11062"
 
   },
   "contact": {
     "title": "Contact",
-    "phone": "Le château est joignable au 06.99.33.55.27 de 09h30 à 19h00 (juillet août) pour plus d’informations.",
-    "mail": "Pour toute autre requête, merci de nous contacter par mail à chateau-ventadour@gmail.com ou via le formulaire ci-dessous.",
+    "phone": "Le château est joignable au <strong>04 75 38 00 92</strong> de 09h30 à 19h00 (Juillet Août) pour plus d’informations.",
+    "mail": "Pour toute autre requête, merci de nous contacter par mail à <strong>chateau-ventadour[at]gmail.com</strong> ou via le formulaire ci-dessous.",
     "status_prefix": "Le château de Ventadour est actuellement :",
     "open": "Ouvert",
     "closed": "Fermé",
